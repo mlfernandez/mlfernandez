@@ -3,7 +3,7 @@
 
 
 
-## I'm learning Full Stack Develop in GeeksHubs Academy :muscle:
+## I'm learning Full Stack Develop in [GeeksHubs Academy] (https://bootcamp.geekshubsacademy.com/) :muscle:
 
 
 
@@ -27,7 +27,7 @@
 
 ## You can connect :phone: with me in:
 
-| <img src="img/linkedin.svg" alt="Bootstrap" width="30"/> | Bootstrap | 
+| <img src="img/linkedin.svg" alt="Bootstrap" width="30"/> | [Linkedin] (https://www.linkedin.com/in/mlfernandez83/) | 
 
 
 
