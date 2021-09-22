@@ -1,7 +1,6 @@
 
 # Hi! :wave: 
-I'm Mariana
-I'm a Full Stack Developer
+# I'm Mariana a Full Stack Developer
 
 
 ## You can connect :phone: with me in:
